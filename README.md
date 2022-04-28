@@ -78,3 +78,4 @@ Run in your local machine using Spyder or Visual Studio Code and Anaconda and ta
 * D. Y. Park and K. H. Lee, “Arbitrary style transfer with style-attentional networks,” in proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2019, pp. 5880–5888
 * X. Huang and S. Belongie, “Arbitrary style transfer in real-time with adaptive instance normalization,” in Proceedings of the IEEE international conference on computer vision, 2017, pp. 1501–1510.
 * Y. Li, C. Fang, J. Yang, Z. Wang, X. Lu, and M.-H. Yang, “Universal style transfer via feature transforms,” Advances in neural information processing systems, vol. 30, 2017.
+* R. Zhang, P. Isola, A. A. Efros, E. Shechtman, and O. Wang, “The unreasonable effectiveness of deep features as a perceptual metric,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2018, pp. 586–595
