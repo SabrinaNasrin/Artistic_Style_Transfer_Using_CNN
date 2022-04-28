@@ -10,8 +10,11 @@ This project is done as a part of MM-805 course.
 * Input folder containing content images
 * Style folder containing style images
 * Output_wct folder containing stylized images output obtained from Universal Style Transfer
-* output AdaIN
-* outputSA
+* output AdaIN folder containing stylized images output obtained from AdaIN
+* outputSANet folder containing stylized images output obtained from SANet
+* output_Improved_SANet folder containing stylized images output obtained from Our model
+* output_avatarnet folder containing stylized images output obtained from Avatarnet method
+* output_gatys folder containing stylized images output obtained from Gatys method
 
 ##### IDE:
 * Google Colab Pro
