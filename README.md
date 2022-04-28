@@ -10,6 +10,8 @@ This project is done as a part of MM-805 course.
 * Input folder containing content images
 * Style folder containing style images
 * Output_wct folder containing stylized images output obtained from Universal Style Transfer
+* output AdaIN
+* outputSA
 
 ##### IDE:
 * Google Colab Pro
