@@ -20,8 +20,8 @@ Install the following libraries in the system:
 * Os
 * Torch
 * TorchVision
-* Pandas
-* Plotly
+* PIL
+* argparse
 * Plotly Express
 * Streamlit_option_menu
 * Numpy
