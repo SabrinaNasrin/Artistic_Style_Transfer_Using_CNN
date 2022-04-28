@@ -53,4 +53,7 @@ Run in your local machine using Spyder or Visual Studio Code and Anacoda and tak
 
 ```
 
+#### References
 
+* Y. Jing, Y. Yang, Z. Feng, J. Ye, Y. Yu, and M. Song, “Neural style transfer: A review,” IEEE transactions on visualization and computer graphics, vol. 26, no. 11, pp. 3365–3385, 2019
+* 
