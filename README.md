@@ -24,7 +24,6 @@ Install the following libraries in the system:
 * argparse
 * Kaggle
 * Tensorboard
-#### Models
 
 
 ##### How to run the code:
