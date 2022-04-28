@@ -55,5 +55,8 @@ Run in your local machine using Spyder or Visual Studio Code and Anaconda and ta
 
 #### References
 
-* Y. Jing, Y. Yang, Z. Feng, J. Ye, Y. Yu, and M. Song, “Neural style transfer: A review,” IEEE transactions on visualization and computer graphics, vol. 26, no. 11, pp. 3365–3385, 2019
-* 
+* L. Sheng, Z. Lin, J. Shao, and X. Wang, “Avatar-net: Multi-scale zero-shot style transfer by feature decoration,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018, pp. 8242–8250.
+* L. A. Gatys, A. S. Ecker, and M. Bethge, “Image style transfer using convolutional neural networks,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016, pp. 2414–2423.
+* D. Y. Park and K. H. Lee, “Arbitrary style transfer with style-attentional networks,” in proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2019, pp. 5880–5888
+* X. Huang and S. Belongie, “Arbitrary style transfer in real-time with adaptive instance normalization,” in Proceedings of the IEEE international conference on computer vision, 2017, pp. 1501–1510.
+* Y. Li, C. Fang, J. Yang, Z. Wang, X. Lu, and M.-H. Yang, “Universal style transfer via feature transforms,” Advances in neural information processing systems, vol. 30, 2017.
