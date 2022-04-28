@@ -1,6 +1,6 @@
 # Artistic_Style_Transfer_Using_CNN
-### MM805- Final Project
-#### Date: April 27,2022
+### MM805 - Final Project
+#### Date: April 27, 2022
 
 This project is done as a part of the MM-805 course.
 
