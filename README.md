@@ -9,7 +9,6 @@ This project is done as a part of MM-805 course.
 * 
 *
 
-
 ##### IDE:
 * Google Colab
 
@@ -18,9 +17,9 @@ This project is done as a part of MM-805 course.
 
 ##### Dependencies:
 Install the following libraries in the system:
-* Datetime
-* Matplotlib.pyplot
-* Streamlit
+* Os
+* Torch
+* TorchVision
 * Pandas
 * Plotly
 * Plotly Express
