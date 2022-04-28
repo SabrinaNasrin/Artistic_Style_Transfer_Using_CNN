@@ -8,7 +8,7 @@ This project is done as a part of MM-805 course.
 * [sanet.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/sanet.py)
 * [SANet_training.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
 * Input folder containing both content and style images
-* Download the pretrained models for improved SANet from here: https://drive.google.com/drive/folders/1zW9E3xrMr1plYHxokdsHZ8DTR48S27_b?usp=sharing
+
 ##### IDE:
 * Google Colab Pro
 
@@ -32,6 +32,8 @@ Install the following libraries in the system:
 * Keep all the files in the repository in the same folder
 * 
 
+#### Models
+Download the pretrained models for improved SANet from here: https://drive.google.com/drive/folders/1zW9E3xrMr1plYHxokdsHZ8DTR48S27_b?usp=sharing
 
 #### Baseline Models
 * Avatar-net: https://github.com/tyui592/Avatar-Net_Pytorch
