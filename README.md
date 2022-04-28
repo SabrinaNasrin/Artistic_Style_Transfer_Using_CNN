@@ -24,7 +24,8 @@ Install the following libraries in the system:
 * argparse
 * Kaggle
 * Tensorboard
-
+#### Models
+Download the pretrained models for improved SANet from here: https://drive.google.com/drive/folders/1zW9E3xrMr1plYHxokdsHZ8DTR48S27_b?usp=sharing
 
 ##### How to run the code:
 * Download the repository
