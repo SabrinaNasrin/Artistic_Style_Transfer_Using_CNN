@@ -22,9 +22,8 @@ Install the following libraries in the system:
 * TorchVision
 * PIL
 * argparse
-* Plotly Express
-* Streamlit_option_menu
-* Numpy
+* Kaggle
+* Tensorboard
 
 
 ##### How to run the code:
