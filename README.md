@@ -30,18 +30,18 @@ Install the following libraries in the system:
 * Download the repository
 * Open Google Colab
 * Keep all the files in the repository in the same folder
-* Install all the dependencies
-* Open "Terminal" of VSCode
-* In the Terminal, write `streamlit run app.py`, press Enter
-* It will open the website in the browser
+* 
+
 
 #### Baseline Models
 * Avatar-net: https://github.com/tyui592/Avatar-Net_Pytorch
 ```
-Run them through Google Colab follow the instructions as given in the repository
+Run them through Google Colab follow the instructions as given in the repository and take the content and style images from this repository input folder.
 ```
 * Universal Style Transfer : https://github.com/irasin/Pytorch_WCT 
 ```
-Run in your local machine using Spyder or Visual Studio Code and Anacoda
+Run in your local machine using Spyder or Visual Studio Code and Anacoda and take the content and style images from this repository input folder.
+
 ```
+
 
