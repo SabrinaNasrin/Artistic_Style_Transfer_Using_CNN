@@ -33,7 +33,14 @@ Install the following libraries in the system:
 * Download the repository
 * Open Google Colab
 * Keep all the files in the repository in the same folder
+* Download the pretrained models
+* Change the location of style image, content image, pretrained models and the output directory
 * run [sanet.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/sanet.py)
+
+##### How to train the model:
+* run the [SANet_training.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
+* download the dataset as per notebook from kaggle and dependencies
+* change the location of the datasets in the main code of training
 
 #### Models
 Download the pre-trained models for improved SANet from here: https://drive.google.com/drive/folders/1zW9E3xrMr1plYHxokdsHZ8DTR48S27_b?usp=sharing
