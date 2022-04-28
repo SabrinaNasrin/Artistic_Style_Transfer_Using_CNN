@@ -42,6 +42,16 @@ Install the following libraries in the system:
 * download the dataset as per notebook from kaggle and dependencies
 * change the location of the datasets in the main code of training
 
+##### How to measure LPIPS distance
+```pip install lpips```
+```
+!git clone https://github.com/richzhang/PerceptualSimilarity
+%cd PerceptualSimilarity
+```
+```
+!python lpips_2imgs.py -p0 /content/drive/MyDrive/SANET-master/input_new/golden_gate.jpg   -p1 /content/drive/MyDrive/avatarnet/golden_gate.jpg --use_gpu
+```
+
 #### Models
 Download the pre-trained models for improved SANet from here: https://drive.google.com/drive/folders/1zW9E3xrMr1plYHxokdsHZ8DTR48S27_b?usp=sharing
 
@@ -51,6 +61,7 @@ Download the pre-trained models for improved SANet from here: https://drive.goog
 * Avatar-net: https://github.com/tyui592/Avatar-Net_Pytorch
 * Universal Style Transfer : https://github.com/irasin/Pytorch_WCT 
 * SANet: https://github.com/GlebSBrykin/SANET
+* LPIPS Distance: https://github.com/richzhang/PerceptualSimilarity
 ```
 Run them through Google Colab follow the instructions as given in the repository and take the content and style images from this repository input folder.
 ```
