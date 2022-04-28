@@ -10,14 +10,14 @@ This project is done as a part of MM-805 course.
 *
 
 ##### IDE:
-* Google Colab
+* Google Colab Pro
 
 ##### Language:
 * Python 3.9
 
 ##### Dependencies:
 Install the following libraries in the system:
-* Os
+* OS
 * Torch
 * TorchVision
 * PIL
@@ -29,9 +29,20 @@ Install the following libraries in the system:
 
 ##### How to run the code:
 * Download the repository
-* Open Visual Studio Code
+* Open Google Colab
 * Keep all the files in the repository in the same folder
 * Install all the dependencies
 * Open "Terminal" of VSCode
 * In the Terminal, write `streamlit run app.py`, press Enter
 * It will open the website in the browser
+
+#### Baseline Models
+* Avatar-net: https://github.com/tyui592/Avatar-Net_Pytorch
+```
+Run them through Google Colab follow the instructions as given in the repository
+```
+* Universal Style Transfer : https://github.com/irasin/Pytorch_WCT 
+```
+Run in your local machine using Spyder or Visual Studio Code and Anacoda
+```
+
