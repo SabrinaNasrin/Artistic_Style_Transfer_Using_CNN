@@ -38,11 +38,13 @@ Install the following libraries in the system:
 * run [sanet.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/sanet.py)
 
 ##### How to train the model:
-* run the [SANet_training.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
+* run the [SANet_training.ipynb](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
 * download the dataset as per notebook from kaggle and dependencies
 * change the location of the datasets in the main code of training
 
 ##### How to measure LPIPS distance
+* p0 is the location of content image
+* p1 is the location of stylized image
 ```pip install lpips```
 ```
 !git clone https://github.com/richzhang/PerceptualSimilarity
