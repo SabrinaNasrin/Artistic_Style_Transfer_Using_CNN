@@ -6,7 +6,7 @@ This project is done as a part of the MM-805 course.
 
 ##### Files:
 * [sanet.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/sanet.py)
-* [SANet_training.py](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
+* [SANet_training.ipynb](https://github.com/SabrinaNasrin/Artistic_Style_Transfer_Using_CNN/blob/main/SANet_training.ipynb)
 * Input folder containing content images
 * Style folder containing the style images
 * Output folders are also added for different models
